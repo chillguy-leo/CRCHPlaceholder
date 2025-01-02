@@ -12,5 +12,5 @@ c_r_c_h_placeholder:
 ```
 
 ## Credits
-Myself - Base code
+Myself - Base code <br>
 [Narin](https://github.com/Narin4ik) - Bug fixes
