@@ -10,3 +10,7 @@ c_r_c_h_placeholder:
   is_enabled: true
   debug: false
 ```
+
+## Credits
+Myself - Base code
+[Narin](https://github.com/Narin4ik) - Bug fixes
