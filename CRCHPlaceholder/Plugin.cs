@@ -24,7 +24,7 @@ namespace CRCHPlaceholder
             if (player == null)
                 return "No Player Found";
 
-            if (player.Role is not SpectatorRole sr)
+            if (!(player.Role is SpectatorRole sr))
                 return "Not Spectator";
 
             var spectatedPlayer = sr.SpectatedPlayer;
